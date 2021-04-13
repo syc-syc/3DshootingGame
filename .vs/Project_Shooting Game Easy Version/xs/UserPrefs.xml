@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{ADBB0461-5E80-D7A6-3902-56FE401CAC66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/04/GameUI.cs">
+    <Files>
+      <File FileName="Assets/Scripts/00/PlayerController.cs" Line="34" Column="5" />
+      <File FileName="Assets/Scripts/00/Projectile.cs" Line="32" Column="1" />
+      <File FileName="Assets/Scripts/01/Enemy.cs" Line="58" Column="5" />
+      <File FileName="Assets/Scripts/02/LivingEntity.cs" Line="21" Column="1" />
+      <File FileName="Assets/Scripts/02/IDamageable.cs" Line="7" Column="5" />
+      <File FileName="Assets/Scripts/03/Wave.cs" Line="2" Column="26" />
+      <File FileName="Assets/Scripts/04/Shell.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/00/GunController.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/04/MuzzleFlash.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/03/Spawner.cs" Line="33" Column="10" />
+      <File FileName="Assets/Scripts/04/GameUI.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
